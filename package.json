@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "description": "Documentation for FatPoppadaddys",
+  "main": "index.js",
+  "author": "Charlie Langridge <charlie@charlielangridge.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.19",
+    "@vuepress/theme-default": "^2.0.0-rc.70",
+    "sass-embedded": "^1.83.4",
+    "vuepress": "^2.0.0-rc.19"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
