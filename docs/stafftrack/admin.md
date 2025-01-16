@@ -86,6 +86,9 @@ To create a new tasks, within the admin area, choose System Admin > Tasks > Task
 ### Site User Tasks
 These models, as named, control the tasks that are assigned to users at a site level. You can add specific tasks to a user at a site level from this model area.
 
+### Users
+Users can be administered from the admin area. If a user needs to be removed from the system, you should mark the user as inactive. This will prevent the user logging in, will prevent them from being added to the rota, but will retain their data, payroll etc.
+
 ### Other Areas of note
 - Roles & Permissions: This is where you can assign ACL roles to users and set the permissions that they have.
 
