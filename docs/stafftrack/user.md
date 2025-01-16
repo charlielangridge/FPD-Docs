@@ -42,16 +42,17 @@ You will receive a weekly roundup of any tasks that require action. This will be
 ## Rota
 
 ### Rota Dashboard
-This shows your shifts for a specific week. You can navigate to different weeks by using the arrows at the top of the page. You can also view your shifts by day, week, month or year by clicking the button at the top of the page.
+This shows your shifts for a specific week. You can navigate to different weeks by using the arrows at the top of the page. You can also view your shifts by day, week, month or year by clicking the button at the top of the page. Any shift with in "i" icon next to it has additional noted. You can view this information by clicking on the shift.
 
 ### Events Calendar
 This shows the events that are happening at the site. You can view all the events and link their web-pages by clicking on them
 
 ### Week Overview
-This shows all the shifts for the week. You can see your shifts and the shifts of your colleagues. You can also see the tasks that are required for each shift.
+This shows all the shifts for the week. You can see your shifts and the shifts of your colleagues. You can also see the tasks that are required for each shift. Any shift with in "i" icon next to it has additional noted. You can view this information by clicking on the shift.
 
 ### Shift Details
 By clicking on your shifts throughout the site you can view more information about the shift. If the shift is in the future, you have options to make changes to the shift
+
 #### Swap Shift
 If you've spoken to a colleague and want to swap shifts, you can click this button. You will be presented with available colleagues. Choose the colleague you wish to swap with and add a note or message. They will be notified and have the option to accept or decline the swap. If they accept, the shifts will be swapped automatically. If they decline, you will need to find another colleague to swap with. If you initiate another swap, the previous swap will be cancelled. Your line manager will be notified of any swaps.
 
@@ -65,6 +66,4 @@ If you are unable to do a shift you can click this button. You will be presented
 You can request holiday using this form. If you have accrued holiday this will be calculated by payroll, otherwise the holiday period will be used to prevent shifts being allocated you you.
 
 Once you have requested holiday, your line manager will be notified and will need to approve the holiday. You will be notified of the approval or rejection of the holiday. Once approved, you will not be available for shifts during the holiday period.
-
-
 

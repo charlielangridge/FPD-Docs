@@ -4,3 +4,4 @@
 .vuepress/.cache
 # VuePress default build output directory
 .vuepress/dist
+/.idea/magento2plugin.xml

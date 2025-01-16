@@ -48,7 +48,7 @@ These are the actual times that the staff member clocked in and out. As a manage
 
 In the reports you can see the original rota times and the adjusted times. Once you have made change, you may save them using the green save button, or revert them with the orange button.
 #### Shift User Notes
-You may record any notes relevant to the shift / user here. This could be used to record any issues that occurred during the shift or any other relevant information. Once you have made change, you may save them using the green save button, or revert them with the orange button.
+You may record any notes relevant to the user's shift here. These are the same notes you made when creating or editing the shift. This could also be used to record any issues that occurred during the shift or any other relevant information. Once you have made change, you may save them using the green save button, or revert them with the orange button. **These notes are visible to the user**.
 
 #### Marking as absent 
 You may record a staff member as absent using the red X button. This will mark the staff member as absent for the day and will not record any hours worked. You may also record a reason for the absence. If a staff member is marked as absent, you may undo this with the purple restore button.
@@ -118,13 +118,13 @@ The statistics box gives you the following data
 - Shift Role Percentage: This is an annotated pie chart showing the split of job roles for the day by cost
 
 ##### Create Shifts
-By clicking the "Add Shift" button it will open a drawer with the ability to add a shift for the day. Once you have selected the role, start and end times, the system will present you with availabe users for that role. You can then select the user and add the shift.
+By clicking the "Add Shift" button it will open a drawer with the ability to add a shift for the day. Once you have selected the role, start and end times, the system will present you with availabe users for that role. You can then select the user and add the shift. You may also add notes for the shift. **Notes are visible to the user**.
 
 ##### Shifts
 The left-hand side of the page shows the shifts for the day. Each shift shows the user, role, start and end times, duration and cost. You can click the three dots on the right hand side to edit or cancel the shift.
 
 ###### Edit Shift
-By clicking the three dots on the right hand side of the shift, followed by the Edit button, you can edit the shift. This will open a drawer with the ability to edit the shift. You can change the role, start and end times and user. The system will only offer a choice of the users that are available for that role and time.
+By clicking the three dots on the right hand side of the shift, followed by the Edit button, you can edit the shift. This will open a drawer with the ability to edit the shift. You can change the role, start and end times, notes and user. The system will only offer a choice of the users that are available for that role and time.
 
 ###### Cancel shift
 By clicking the three dots on the right hand side of the shift, followed by the Cancel button, you can cancel the shift. This will remove the shift from the day. You can opt to notify or not notify the user of the cancellation. If a week is published, the user will always be notified of the change.
@@ -135,11 +135,17 @@ The right-hand side of the page shows the chart for the day. This shows the coun
 ### Manage Templates
 This page shows you the shift templates that are available for your site. You can view the shifts in the template, edit the name of the template to something more useful or delete the template.
 
-### Rota Overiew Report 
+### Rota Overview Report 
 
 **This report is only available to users with the 'view global reports' permission**
 
 This report shows the labour to sales percentage for each site per day and overall for the week. Percentages below the site target are in green, those above are in red. It also shows rota notes per day per site where available.
+
+### Rota Overview (Non Managerial) Report 
+
+**This report is only available to users with the 'view global reports' permission**
+
+This report shows the non-managerial labour to sales percentage for each site per day and overall for the week. Percentages below the site target are in green, those above are in red. It also shows rota notes per day per site where available.
 
 ### Payroll Report
 This report shows the payroll details for each user who has had shifts for the specific week. It shows their role, pay rate and hours work - by day and as a total. It also give a calculation of the gross pay. The payroll notes for the week are also shown where available.
