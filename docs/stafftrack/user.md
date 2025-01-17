@@ -44,6 +44,9 @@ You will receive a weekly roundup of any tasks that require action. This will be
 ### Rota Dashboard
 This shows your shifts for a specific week. You can navigate to different weeks by using the arrows at the top of the page. You can also view your shifts by day, week, month or year by clicking the button at the top of the page. Any shift with in "i" icon next to it has additional noted. You can view this information by clicking on the shift.
 
+### My Availability
+This shows your availability for the year. You can set your availability for a date by double-clicking on the date. If you are marked as unavailable, you will be unable to be added to the rota.
+
 ### Events Calendar
 This shows the events that are happening at the site. You can view all the events and link their web-pages by clicking on them
 
