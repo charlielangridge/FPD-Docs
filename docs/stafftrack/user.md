@@ -15,6 +15,9 @@ account. You **must** use your full legal name to prevent any payroll issues.
 It's important to keep your profile up-to-date. It can be viewed and edited by clicking on your name in the top right
 corner of the screen, then selecting "Profile".
 
+### Availability
+You can set your availability for the general weekly availability here. You can adjust individual days on the "My Availability" page.
+
 ### Profile Picture
 You can upload a profile picture to help identify you. This is especially useful if you work at multiple sites.
 
