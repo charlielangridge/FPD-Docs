@@ -8,6 +8,8 @@ account. You <strong>must</strong> use your full legal name to prevent any payro
 <h2 id="your-profile" tabindex="-1"><a class="header-anchor" href="#your-profile"><span>Your Profile</span></a></h2>
 <p>It's important to keep your profile up-to-date. It can be viewed and edited by clicking on your name in the top right
 corner of the screen, then selecting &quot;Profile&quot;.</p>
+<h3 id="availability" tabindex="-1"><a class="header-anchor" href="#availability"><span>Availability</span></a></h3>
+<p>You can set your availability for the general weekly availability here. You can adjust individual days on the &quot;My Availability&quot; page. There may be certain dates that the site managment require you to be available for, these will be set by your line manager and you are unable to change them.</p>
 <h3 id="profile-picture" tabindex="-1"><a class="header-anchor" href="#profile-picture"><span>Profile Picture</span></a></h3>
 <p>You can upload a profile picture to help identify you. This is especially useful if you work at multiple sites.</p>
 <h3 id="two-factor-authentication" tabindex="-1"><a class="header-anchor" href="#two-factor-authentication"><span>Two Factor Authentication</span></a></h3>
@@ -24,11 +26,13 @@ right corner of the screen, then selecting &quot;Profile&quot; and then &quot;Tw
 <p>You will receive a weekly roundup of any tasks that require action. This will be sent to the email address you used to sign up to StaffTrack.</p>
 <h2 id="rota" tabindex="-1"><a class="header-anchor" href="#rota"><span>Rota</span></a></h2>
 <h3 id="rota-dashboard" tabindex="-1"><a class="header-anchor" href="#rota-dashboard"><span>Rota Dashboard</span></a></h3>
-<p>This shows your shifts for a specific week. You can navigate to different weeks by using the arrows at the top of the page. You can also view your shifts by day, week, month or year by clicking the button at the top of the page.</p>
+<p>This shows your shifts for a specific week. You can navigate to different weeks by using the arrows at the top of the page. You can also view your shifts by day, week, month or year by clicking the button at the top of the page. Any shift with in &quot;i&quot; icon next to it has additional noted. You can view this information by clicking on the shift.</p>
+<h3 id="my-availability" tabindex="-1"><a class="header-anchor" href="#my-availability"><span>My Availability</span></a></h3>
+<p>This shows your availability for the year. You can set your availability for a date by double-clicking on the date. If you are marked as unavailable, you will be unable to be added to the rota.</p>
 <h3 id="events-calendar" tabindex="-1"><a class="header-anchor" href="#events-calendar"><span>Events Calendar</span></a></h3>
 <p>This shows the events that are happening at the site. You can view all the events and link their web-pages by clicking on them</p>
 <h3 id="week-overview" tabindex="-1"><a class="header-anchor" href="#week-overview"><span>Week Overview</span></a></h3>
-<p>This shows all the shifts for the week. You can see your shifts and the shifts of your colleagues. You can also see the tasks that are required for each shift.</p>
+<p>This shows all the shifts for the week. You can see your shifts and the shifts of your colleagues. You can also see the tasks that are required for each shift. Any shift with in &quot;i&quot; icon next to it has additional noted. You can view this information by clicking on the shift.</p>
 <h3 id="shift-details" tabindex="-1"><a class="header-anchor" href="#shift-details"><span>Shift Details</span></a></h3>
 <p>By clicking on your shifts throughout the site you can view more information about the shift. If the shift is in the future, you have options to make changes to the shift</p>
 <h4 id="swap-shift" tabindex="-1"><a class="header-anchor" href="#swap-shift"><span>Swap Shift</span></a></h4>
@@ -39,6 +43,7 @@ right corner of the screen, then selecting &quot;Profile&quot; and then &quot;Tw
 <p>If you are unable to do a shift you can click this button. You will be presented with a form to fill in. This will be sent to your line manager for review. This is not an automatic process and will require the approval of your line manager.</p>
 <h2 id="holiday" tabindex="-1"><a class="header-anchor" href="#holiday"><span>Holiday</span></a></h2>
 <p>You can request holiday using this form. If you have accrued holiday this will be calculated by payroll, otherwise the holiday period will be used to prevent shifts being allocated you you.</p>
+<p>There may be certain dates that the site managment require you to be available for, these will be set by your line manager and you are unable to request holiday for these dates.</p>
 <p>Once you have requested holiday, your line manager will be notified and will need to approve the holiday. You will be notified of the approval or rejection of the holiday. Once approved, you will not be available for shifts during the holiday period.</p>
 </div></template>
 

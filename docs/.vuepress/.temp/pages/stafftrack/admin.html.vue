@@ -81,6 +81,8 @@
 </ul>
 <h3 id="site-user-tasks" tabindex="-1"><a class="header-anchor" href="#site-user-tasks"><span>Site User Tasks</span></a></h3>
 <p>These models, as named, control the tasks that are assigned to users at a site level. You can add specific tasks to a user at a site level from this model area.</p>
+<h3 id="users" tabindex="-1"><a class="header-anchor" href="#users"><span>Users</span></a></h3>
+<p>Users can be administered from the admin area. If a user needs to be removed from the system, you should mark the user as inactive. This will prevent the user logging in, will prevent them from being added to the rota, but will retain their data, payroll etc.</p>
 <h3 id="other-areas-of-note" tabindex="-1"><a class="header-anchor" href="#other-areas-of-note"><span>Other Areas of note</span></a></h3>
 <ul>
 <li>Roles &amp; Permissions: This is where you can assign ACL roles to users and set the permissions that they have.</li>

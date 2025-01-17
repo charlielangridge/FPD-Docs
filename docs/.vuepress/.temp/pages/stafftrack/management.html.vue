@@ -25,6 +25,8 @@
 <h3 id="holiday-report" tabindex="-1"><a class="header-anchor" href="#holiday-report"><span>Holiday Report</span></a></h3>
 <p>From the holiday report you are able to see all the holiday requests that have been made by users within your site. You can view the relevant date times and the status of the request. You may also approve or reject the request from this report.</p>
 <h2 id="rota" tabindex="-1"><a class="header-anchor" href="#rota"><span>Rota</span></a></h2>
+<h3 id="required-dates" tabindex="-1"><a class="header-anchor" href="#required-dates"><span>Required Dates</span></a></h3>
+<p>You may set required dates for your site. These are dates that you require all staff to be available for. You may set these dates from the &quot;Required Dates&quot; page. You may also delete these dates from the page. To toggle the required date on or off, you double-click the date.</p>
 <h3 id="time-sheet" tabindex="-1"><a class="header-anchor" href="#time-sheet"><span>Time Sheet</span></a></h3>
 <p>The time sheet section of the site is used to record &quot;on the day&quot; data. This is used to record the actual hours worked by staff on a given day. You can also add notes to the time sheet entry. Details about each relevant section are as follows</p>
 <h4 id="start-end" tabindex="-1"><a class="header-anchor" href="#start-end"><span>Start &amp; End</span></a></h4>
@@ -34,7 +36,7 @@
 <p><strong>You should be consistent with your approach to this</strong>.</p>
 <p>In the reports you can see the original rota times and the adjusted times. Once you have made change, you may save them using the green save button, or revert them with the orange button.</p>
 <h4 id="shift-user-notes" tabindex="-1"><a class="header-anchor" href="#shift-user-notes"><span>Shift User Notes</span></a></h4>
-<p>You may record any notes relevant to the shift / user here. This could be used to record any issues that occurred during the shift or any other relevant information. Once you have made change, you may save them using the green save button, or revert them with the orange button.</p>
+<p>You may record any notes relevant to the user's shift here. These are the same notes you made when creating or editing the shift. This could also be used to record any issues that occurred during the shift or any other relevant information. Once you have made change, you may save them using the green save button, or revert them with the orange button. <strong>These notes are visible to the user</strong>.</p>
 <h4 id="marking-as-absent" tabindex="-1"><a class="header-anchor" href="#marking-as-absent"><span>Marking as absent</span></a></h4>
 <p>You may record a staff member as absent using the red X button. This will mark the staff member as absent for the day and will not record any hours worked. You may also record a reason for the absence. If a staff member is marked as absent, you may undo this with the purple restore button.</p>
 <h4 id="general-day-notes" tabindex="-1"><a class="header-anchor" href="#general-day-notes"><span>General Day notes</span></a></h4>
@@ -97,20 +99,23 @@ The chart for each day shows the count of staff at any time per job role. You ca
 <li>Shift Role Percentage: This is an annotated pie chart showing the split of job roles for the day by cost</li>
 </ul>
 <h5 id="create-shifts" tabindex="-1"><a class="header-anchor" href="#create-shifts"><span>Create Shifts</span></a></h5>
-<p>By clicking the &quot;Add Shift&quot; button it will open a drawer with the ability to add a shift for the day. Once you have selected the role, start and end times, the system will present you with availabe users for that role. You can then select the user and add the shift.</p>
+<p>By clicking the &quot;Add Shift&quot; button it will open a drawer with the ability to add a shift for the day. Once you have selected the role, start and end times, the system will present you with availabe users for that role. You can then select the user and add the shift. You may also add notes for the shift. <strong>Notes are visible to the user</strong>.</p>
 <h5 id="shifts" tabindex="-1"><a class="header-anchor" href="#shifts"><span>Shifts</span></a></h5>
 <p>The left-hand side of the page shows the shifts for the day. Each shift shows the user, role, start and end times, duration and cost. You can click the three dots on the right hand side to edit or cancel the shift.</p>
 <h6 id="edit-shift" tabindex="-1"><a class="header-anchor" href="#edit-shift"><span>Edit Shift</span></a></h6>
-<p>By clicking the three dots on the right hand side of the shift, followed by the Edit button, you can edit the shift. This will open a drawer with the ability to edit the shift. You can change the role, start and end times and user. The system will only offer a choice of the users that are available for that role and time.</p>
+<p>By clicking the three dots on the right hand side of the shift, followed by the Edit button, you can edit the shift. This will open a drawer with the ability to edit the shift. You can change the role, start and end times, notes and user. The system will only offer a choice of the users that are available for that role and time.</p>
 <h6 id="cancel-shift" tabindex="-1"><a class="header-anchor" href="#cancel-shift"><span>Cancel shift</span></a></h6>
 <p>By clicking the three dots on the right hand side of the shift, followed by the Cancel button, you can cancel the shift. This will remove the shift from the day. You can opt to notify or not notify the user of the cancellation. If a week is published, the user will always be notified of the change.</p>
 <h4 id="shift-chart" tabindex="-1"><a class="header-anchor" href="#shift-chart"><span>Shift Chart</span></a></h4>
 <p>The right-hand side of the page shows the chart for the day. This shows the count of staff at any time per job role. You can identify the job role by the colour (as set by admin) or by hovering over the chart to see the job role name.</p>
 <h3 id="manage-templates" tabindex="-1"><a class="header-anchor" href="#manage-templates"><span>Manage Templates</span></a></h3>
 <p>This page shows you the shift templates that are available for your site. You can view the shifts in the template, edit the name of the template to something more useful or delete the template.</p>
-<h3 id="rota-overiew-report" tabindex="-1"><a class="header-anchor" href="#rota-overiew-report"><span>Rota Overiew Report</span></a></h3>
+<h3 id="rota-overview-report" tabindex="-1"><a class="header-anchor" href="#rota-overview-report"><span>Rota Overview Report</span></a></h3>
 <p><strong>This report is only available to users with the 'view global reports' permission</strong></p>
 <p>This report shows the labour to sales percentage for each site per day and overall for the week. Percentages below the site target are in green, those above are in red. It also shows rota notes per day per site where available.</p>
+<h3 id="rota-overview-non-managerial-report" tabindex="-1"><a class="header-anchor" href="#rota-overview-non-managerial-report"><span>Rota Overview (Non Managerial) Report</span></a></h3>
+<p><strong>This report is only available to users with the 'view global reports' permission</strong></p>
+<p>This report shows the non-managerial labour to sales percentage for each site per day and overall for the week. Percentages below the site target are in green, those above are in red. It also shows rota notes per day per site where available.</p>
 <h3 id="payroll-report" tabindex="-1"><a class="header-anchor" href="#payroll-report"><span>Payroll Report</span></a></h3>
 <p>This report shows the payroll details for each user who has had shifts for the specific week. It shows their role, pay rate and hours work - by day and as a total. It also give a calculation of the gross pay. The payroll notes for the week are also shown where available.</p>
 <h3 id="global-payroll-report" tabindex="-1"><a class="header-anchor" href="#global-payroll-report"><span>Global Payroll Report</span></a></h3>

@@ -37,6 +37,9 @@ From the holiday report you are able to see all the holiday requests that have b
 
 ## Rota
 
+### Required Dates
+You may set required dates for your site. These are dates that you require all staff to be available for. You may set these dates from the "Required Dates" page. You may also delete these dates from the page. To toggle the required date on or off, you double-click the date.
+
 ### Time Sheet
 The time sheet section of the site is used to record "on the day" data. This is used to record the actual hours worked by staff on a given day. You can also add notes to the time sheet entry. Details about each relevant section are as follows
 #### Start & End

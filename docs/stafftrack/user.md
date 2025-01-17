@@ -16,7 +16,7 @@ It's important to keep your profile up-to-date. It can be viewed and edited by c
 corner of the screen, then selecting "Profile".
 
 ### Availability
-You can set your availability for the general weekly availability here. You can adjust individual days on the "My Availability" page.
+You can set your availability for the general weekly availability here. You can adjust individual days on the "My Availability" page. There may be certain dates that the site managment require you to be available for, these will be set by your line manager and you are unable to change them.
 
 ### Profile Picture
 You can upload a profile picture to help identify you. This is especially useful if you work at multiple sites.
@@ -70,6 +70,8 @@ If you are unable to do a shift you can click this button. You will be presented
 
 ## Holiday
 You can request holiday using this form. If you have accrued holiday this will be calculated by payroll, otherwise the holiday period will be used to prevent shifts being allocated you you.
+
+There may be certain dates that the site managment require you to be available for, these will be set by your line manager and you are unable to request holiday for these dates.
 
 Once you have requested holiday, your line manager will be notified and will need to approve the holiday. You will be notified of the approval or rejection of the holiday. Once approved, you will not be available for shifts during the holiday period.
 
