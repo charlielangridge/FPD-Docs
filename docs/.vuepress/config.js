@@ -9,10 +9,10 @@ export default defineUserConfig({
 
     lang: 'en-GB',
     title: 'FPD Docs',
-    description: 'Here you can find the documentation for the all the FPD softwares.',
+    description: 'Here you can find the documentation for the all the FPD software.',
     plugins: [
-        searchPlugin({
-            // options
-        }),
+        // searchPlugin({
+        //     // options
+        // }),
     ],
 })
