@@ -5,3 +5,7 @@
 # VuePress default build output directory
 .vuepress/dist
 /.idea/magento2plugin.xml
+/docs/.vitepress/dist/
+/docs/.vitepress/cache/
+
+/node_modules/
